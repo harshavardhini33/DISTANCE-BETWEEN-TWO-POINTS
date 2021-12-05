@@ -28,7 +28,8 @@ print("{:.2f}".format(dist))
   
 
 
-### OUTPUT:![gitt](python.png)
+### OUTPUT:
+![gitt](python.png)
 
 
 ### RESULT:
